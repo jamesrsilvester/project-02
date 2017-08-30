@@ -119,9 +119,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Thursday August 31, 2017 at 9am** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Thursday August 31, 2017 at 9:15am** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **TBD** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday September 7, 2017 at 9:15am** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -138,33 +138,31 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members and assigned instructor?
 
-#### Group 1 - TBD (INSTRUCTOR)
+#### Group 1 - Crowdsourced Note-taking (JC)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Kevin
+* Hidaner
+* Ryan
+* James
 
-#### Group 2 - TBD (INSTRUCTOR)
+#### Group 2 - Pondered - short form original social media (CF)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Daryl
+* Chris F
+* Joanne
 
-#### Group 3 - TBD (INSTRUCTOR)
+#### Group 3 - Outfitter (JH)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Garrick
+* Mary
+* Sepp
 
-#### Group 4 - TBD (INSTRUCTOR)
+#### Group 4 - Hyup - housing with other new arrivals (CF)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Stacy
+* Chris P
+* Dan L
+* Bryan
 
 ---
 
@@ -172,7 +170,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **TBD** starting at **TBD**. Please follow these guidelines:
+Each group will present their project on **Thursday September 7th** starting at **9:15am**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 20 minutes.**
